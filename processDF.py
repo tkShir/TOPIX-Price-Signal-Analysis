@@ -57,7 +57,7 @@ def ProcessDF():
     test_score = accuracy_score(y_test, y_val_pred)
     # Display accuracy
     print("Accuracy with Training Data：" + str(train_score * 100) + "%")
-    print("Accuract with Test Data" + str(test_score * 100) + "%")
+    print("Accuracy with Test Data: " + str(test_score * 100) + "%")
 
     # Cross validation
     # Split into 5 sections for cross validations
