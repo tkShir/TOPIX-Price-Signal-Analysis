@@ -2,14 +2,14 @@
 
 This project attempts to determine whether Nikkei 225, a Japanese Stock Index, will rise or fall, based on other global stock index as well as foreign exchange rate.
 
-The Indexes used are:\n
-    - Dow Jones (DJI)\n
-    - S&P 500 (GSPC)\n
-    - NASDAQ (IXIC)\n
-    - Russell 2000 (RUT)\n
-    - Euro Stoxx 50 (STOXX50E)\n
+The Indexes used are:
+    - Dow Jones (DJI)
+    - S&P 500 (GSPC)
+    - NASDAQ (IXIC)
+    - Russell 2000 (RUT)
+    - Euro Stoxx 50 (STOXX50E)
 
-The foreign exchange rates used are:\n
+The foreign exchange rates used are:
     - US Dollar
     - British Pound
     - Euro
