@@ -44,9 +44,9 @@ The foreign exchange rates used are:
       * : Currency with this mark has been divided by 100 from its true value for the sake of simplicity  
   
 ## Result  
-Appropriate Parameter {'C': 100, 'loss': 'hinge'}
-Accuracy with Training Data：74.73002159827213%
-Accuract with Test Data64.65517241379311%
-Cross-Validation scores: [0.64655172 0.66810345 0.68534483 0.56034483 0.65652174]
-Average score: 0.6433733133433284
+Appropriate Parameter {'C': 100, 'loss': 'hinge'}  
+Accuracy with Training Data：74.73002159827213%  
+Accuract with Test Data64.65517241379311%  
+Cross-Validation scores: [0.64655172, 0.66810345, 0.68534483, 0.56034483, 0.65652174]  
+Average score: 0.6433733133433284  
 
