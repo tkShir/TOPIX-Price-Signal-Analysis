@@ -1,7 +1,7 @@
 # TOPIX-Price-Signal-Analysis  
 
 ## Overview
-This project attempts to determine whether Nikkei 225, a Japanese Stock Index, will rise or fall, based on other global stock index as well as foreign exchange rate. The data used were from 01/01/2014 to 12/31/2019. If there were missing values in data, average of respective data set.  
+This project attempts to determine whether Nikkei 225, a Japanese Stock Index, will rise or fall, based on other global stock index as well as foreign exchange rate. The data used were from 01/01/2014 to 12/31/2019. If there were missing values in data, average of the respective data set were used.  
 
 The Indexes used are:  
 * Dow Jones (DJI)  
@@ -44,7 +44,6 @@ The foreign exchange rates used are:
       * : Currency with this mark has been divided by 100 from its true value for the sake of simplicity  
   
 ## Result  
-Accuracy with Training Data：74.73002159827213%  
 Accuracy with Test Data: 64.65517241379311%  
 
 Cross-Validation scores: [0.64655172, 0.66810345, 0.68534483, 0.56034483, 0.65652174]  
